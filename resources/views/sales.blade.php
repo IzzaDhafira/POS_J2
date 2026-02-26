@@ -7,7 +7,7 @@
                 <th>Harga</th>
             </tr>
             <tr>
-                <td>Produk Contoh</td>
+                <td>Nasi Goreng</td>
                 <td>Rp 10.000</td>
             </tr>
         </table>
